@@ -1,3 +1,8 @@
+# EEG_Classifcation Project using CNN and SVM 
+
+We created both a CNN and SVM which used the dataset provided and was inspired by the papers below. The eeg_testing notebook and pdf is where our models are that we ultimately used for our paper and presentation. We took two image types in the data set, golf balls and eygptian cats, and used a binary CNN and SVM to see if our models could predict what image they were looking at when testing them with some of the data. 
+
+
 # EEG-Based Visual Classification Dataset
 
 This dataset includes EEG data from 6 subjects. The recording protocol included 40 object classes with 50 images each, taken from the ImageNet dataset, giving a
